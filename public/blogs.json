@@ -1,0 +1,48 @@
+[
+                              {
+                                  "ID": "12345",
+                                  "Cover": "https://i.ibb.co/r0Fp48Y/cover.jpg" ,
+                                  "Title": "The Enchanted Forest",
+                                  "Author": "Jane Doe",
+                                  "Author_img": "https://i.ibb.co/5vz8Xry/111.webp",
+                                  "Posted_Date": "September 11, 2023",
+                                  "Reading_Time": 3
+                              },
+                              {
+                                  "ID": "67890",
+                                  "Cover": "https://i.ibb.co/R21z0Ry/cover2.jpg",
+                                  "Title": "Lost in Time",
+                                  "Author": "John Smith",
+                                  "Author_img": "https://i.ibb.co/QKyvjcB/2222.png",
+                                  "Posted_Date": "September 10, 2023",
+                                  "Reading_Time": 5
+                              },
+                              {
+                                  "ID": "13579",
+                                  "Cover": "https://i.ibb.co/wNqrBkw/cover3.jpg",
+                                  "Title": "Secrets of the Abyss",
+                                  "Author": "Emily Brown",
+                                  "Author_img": "https://i.ibb.co/2YbRHwB/3333.png",
+                                  "Posted_Date": "September 9, 2023",
+                                  "Reading_Time": 1
+                              },
+                              {
+                                  "ID": "24680",
+                                  "Cover": "https://i.ibb.co/r0Fp48Y/cover.jpg",
+                                  "Title": "The Mysterious Island",
+                                  "Author": "David Johnson",
+                                  "Author_img": "https://i.ibb.co/5vz8Xry/111.webp",
+                                  "Posted_Date": "September 8, 2023",
+                                  "Reading_Time": 4
+                              },
+                              {
+                                  "ID": "98765",
+                                  "Cover": "https://i.ibb.co/R21z0Ry/cover2.jpg",
+                                  "Title": "A Journey Through Space",
+                                  "Author": "Sarah Wilson",
+                                  "Author_img": "https://i.ibb.co/2YbRHwB/3333.png",
+                                  "Posted_Date": "September 7, 2023",
+                                  "Reading_Time": 8
+                              }
+                          ]
+                          
